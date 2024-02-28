@@ -11,10 +11,10 @@
 
 - 💬 Ask me about **react,flask,python,javascript,django,tailwind**
 
-- 📫 How to reach me **sheilanyambura394@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  - 📫  **sheilanyambura394@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
